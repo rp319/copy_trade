@@ -1,0 +1,6 @@
+username =  '230974'
+password = 'Jbs@200600'
+twofa = 'A'
+app_id = '39DQGci91g'
+app_name = 'demo'
+app_secret = 'NaWRnaO1cPiPcoYbHfVSBr48knBgcxuMwIFvLxhwUAvAQPCWndYE6YkP16zFwL7z'
